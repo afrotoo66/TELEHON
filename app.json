@@ -1,13 +1,13 @@
 {
-  "name": "⦓ 𝗧𝗘𝗟𝗘𝗛𝗢𝗡 𝗦𝗣𝗜𝗗𝗘𝗥 ⦔",
+  "name": "⦓ ᯓ 𝚃𝙴𝙻𝙴𝚃𝙷𝙾𝙽 𝙰𝙵𝚁𝙾𝚃𝙾𝙾 𓃠 ⦔",
   "description": "اللهم صلي وسلم وزد وبارك على سيدنا محمد 🌺",
-  "logo": "https://graph.org/file/92e7f9503dc8352f65181.jpg",
+  "logo": "https://telegra.ph/file/04b2f1f1c808dc49db35b.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/SOURCE-SPIDER/TELEHON",
+  "repository": "https://github.com/afrotoo66/TELEHON",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -63,7 +63,7 @@
     }
   }],
   "buildpacks": [{
-    "url": "https://github.com/SOURCE-SPIDER/heroku-buildpack-ffmpeg-latest"
+    "url": "https://github.com/afrotoo66/heroku-buildpack-ffmpeg-latest"
   },{
     "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
   },{
